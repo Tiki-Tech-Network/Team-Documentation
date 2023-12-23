@@ -8,3 +8,6 @@ This repository contains relevant documentation contributing to the Tiki Tech Ne
 [Trello - Project Management Tool](https://trello.com/invite/tikitechnetworksolutions/ATTIb19c9ef91df22dc3a7592d957558e4e30524CE9C)
 
 [TTNS Calendar](https://calendar.google.com/calendar/u/0?cid=NGJhMmE1YWZkMzZiOWYxMzE4ZjMxYmQ1ZWU1ZGFmMzdkYTc3YTQ2MmYwNDdhNjkwMWU5YzkwM2I0OTZiMDY0NkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+## [Final Slideshow](https://docs.google.com/presentation/d/1jVa_kd9SWHRC-UC5yZyZfZniq_CBE7qdJcDnymkTfxo/edit?usp=sharing)
+
